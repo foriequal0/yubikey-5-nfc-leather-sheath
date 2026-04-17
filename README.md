@@ -1,7 +1,7 @@
 YubiKey 5 NFC Leather Sheath
 ===
 
-<img width="600" alt="YubiKey 5 NFC in a leather sheat with RF blocking lining" src="assets/photo.jpg">
+<img width="300" alt="YubiKey 5 NFC in a leather sheat with RF blocking lining" src="assets/photo1.jpg"><img width="300" alt="YubiKey 5 NFC in a leather sheat with RF blocking lining" src="assets/photo2.jpg">
 
 ## How to make
 
@@ -14,5 +14,5 @@ YubiKey 5 NFC Leather Sheath
 5. Cut the leather.
 6. Punch the lanyard hole.
 7. Make stitch holes.
-8. Stitch. It's basically a butt-jointed box shape, so butt stitch/box stitch can be used. I've box-stitched but the crossing seams are outside. Don't ask me why.
+8. Stitch. It's basically a butt-jointed box shape, so butt stitch/box stitch can be used. Don't ask me why.
 9. Finish with edge paints.
